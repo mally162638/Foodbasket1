@@ -1308,6 +1308,10 @@ main{
     font-size: 32px;
   }
 
+     .nav-links .waitlist-btn{
+    display: none;
+  }
+
   .hero__actions {
     flex-direction: column;
     align-items: center;
